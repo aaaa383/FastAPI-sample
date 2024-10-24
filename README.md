@@ -1,1 +1,2 @@
 # FastAPI-sample
+Panelに載せているFastAPI入門の講座用のディレクトリ
